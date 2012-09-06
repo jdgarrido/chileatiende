@@ -16,3 +16,8 @@ Instalación
 * Finalmente en Número de fichas, colocamos el numero de fichas a desplegar, 0 si se desean desplegar todas las fichas. Si el campo Fichas contiene fichas, este campo quedará anulado
 
 Para desplegar el contenido en alguna parte de nuestro sitio, simplemente copiamos el siguiente código <?= chileatiende_fichasportada() ?> y lo agregamos en nuestro template
+
+Licencia
+========
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_CL"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_CL">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 Unported</a>.
